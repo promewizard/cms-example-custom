@@ -47,7 +47,8 @@
       "label": "Dynamic Page Slug",
       "type": "string",
       "fieldType": "text",
-      "description": "The url slug for use in object dynamic pages"
+      "description": "The url slug for use in object dynamic pages",
+      "hasUniqueValue": true
     },
     {
       "name": "price",
