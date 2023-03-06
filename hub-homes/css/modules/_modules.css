@@ -52,7 +52,6 @@
 @media (min-width: 1209px) {
   .listing {
     display: flex;
-    font-family: "Avenir Next Demi Bold", Avenir, Times;
     margin: 0 auto;
     width: 80%;
   }
